@@ -1,0 +1,8 @@
+
+{
+  "name": "FinDash - Expense Control",
+  "description": "A premium dark-themed financial dashboard for expense tracking and financial analytics with real-time transaction management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
