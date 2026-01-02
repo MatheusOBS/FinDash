@@ -40,7 +40,7 @@ npm install
 
 3. Configure sua chave de API no arquivo `.env.local`:
 ```env
-API_KEY=sua_chave_aqui
+API_KEY=replace_with_your_api_key
 ```
 
 4. Inicie o servidor de desenvolvimento:
